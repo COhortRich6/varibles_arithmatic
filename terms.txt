@@ -1,0 +1,33 @@
+● Expression: Is a combination of items or vaareables or literals 
+
+
+
+
+● Operator: preformes built in calculation 
+
+
+
+
+
+
+
+● Evaluate: a function that evaluates a string as an expression
+
+
+
+
+
+
+
+
+● Precedence: manages the order of spacific operations to be preformed in expression
+
+
+
+
+
+
+
+
+
+● Floating-point: Is a real number 98.0 or more or less 
